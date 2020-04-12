@@ -1,4 +1,4 @@
-# vue-todos
+# vue-basic-todo-app
 you can directly use this just do some steps.
 
 ## setp yarn on system
